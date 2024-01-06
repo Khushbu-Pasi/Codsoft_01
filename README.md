@@ -39,7 +39,7 @@ These instructions will help you set up and run the portfolio website locally on
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/portfolio-website.git
+   https://github.com/Khushbu-Pasi/Codsoft_01.git
     ```
 
 2. Open the `index.html` file in your preferred web browser.
